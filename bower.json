@@ -1,0 +1,14 @@
+{
+  "name": "showdown-github-bower",
+  "version": "0.3.1",
+  "main": ["./src/showdown.js", "./src/extensions/github.js"],
+  "description": "Bower package for Showdown",
+  "license": "BSD",
+  "repository": {
+      "type": "git",
+      "url":  "https://github.com/brutalhonesty/showdown-bower.git",
+      "web":  "https://github.com/brutalhonesty/showdown-bower"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
