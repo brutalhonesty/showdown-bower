@@ -1,5 +1,6 @@
 {
   "name": "showdown-github-bower",
+  "main": "src/showdown.js",
   "version": "0.3.1",
   "main": ["./src/showdown.js", "./src/extensions/github.js"],
   "description": "Bower package for Showdown",
